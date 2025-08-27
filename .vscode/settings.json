@@ -1,0 +1,19 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default",
+                "enableSsl": "Disabled"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 33060,
+            "driver": "MySQL",
+            "name": "st_june_academy",
+            "group": "Standard (TCP/IP)",
+            "username": "root",
+            "connectionTimeout": 50,
+            "database": "st_june"
+        }
+    ]
+}
