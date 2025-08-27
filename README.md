@@ -1,28 +1,20 @@
 # 🎓 St. June Academy – School Website Project  
 
-A **responsive school website project** designed to showcase **academic operations, student management, and modern school branding**.  
-Built as part of my portfolio to demonstrate **frontend development, UI/UX design, and database integration skills**.  
+A school management system project designed to simplify academic operations.  
+
+## Features
+- Student registration & management  
+- Class scheduling  
+- Grading system  
+- Report generation  
+
+## Technologies Used
+- HTML, CSS, JavaScript  
+- [Add your backend tech if any: PHP, Node.js, etc.]  
+- MySQL / Database  
+
+## How to Run
+1. Clone the repo  
+2. Open `index.html` (or run backend server if included)  
 
 ---
-
-## ✨ Features
-- 🧑‍🎓 Student registration & management  
-- 📅 Class scheduling  
-- 📝 Grading & report system  
-- 🖼️ Responsive school landing pages (About, Admissions, Classes, Contact)  
-- 🔒 Basic data security & management  
-
----
-
-## 🛠️ Technologies Used
-- **Frontend:** HTML5, CSS3, JavaScript  
-- **Database:** MySQL (basic schema included)  
-- **Design Tools:** Figma / Photoshop (for UI and assets)  
-- *(Optional: Backend if you plan to add PHP, Node.js, etc.)*  
-
----
-
-## 🚀 How to Run
-1. Clone this repository:  
-   ```bash
-   git clone https://github.com/christopher-oyuga/St.-June-Academy-school-project.git
